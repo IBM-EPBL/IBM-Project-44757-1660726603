@@ -1,7 +1,7 @@
 # IBM-Project-44757-1660726603
 Web Phishing Detection
 Team Details:
-Team Lead:
+#Team Lead:
 A.Priyadharshini
 Team Member 1:
 A.vanathi
